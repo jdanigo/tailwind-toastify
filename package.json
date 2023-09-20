@@ -2,6 +2,11 @@
   "name": "tailwind-toastify",
   "version": "1.0.3",
   "description": "Show beatiful notifications with tailwindcss",
+  "homepage": "https://tailwind-toastify.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdanigo/tailwind-toastify"
+  },
   "main": "build/index.js",
   "keywords": ["Tailwindcss", "Notifications tailwind", "Tailwind toastify"],
   "engines": {
