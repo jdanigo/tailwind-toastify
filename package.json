@@ -1,6 +1,6 @@
 {
   "name": "tailwind-toastify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Show beatiful notifications with tailwindcss",
   "main": "build/index.js",
   "keywords": ["Tailwindcss", "Notifications tailwind", "Tailwind toastify"],
