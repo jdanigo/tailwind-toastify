@@ -3,11 +3,12 @@
 npm install tailwind-toastify
 ```
 # Requirements
-Have tailwindcss 3.x installed in your react project. [Tailwindcss](tailwindcss.com) 
+Have tailwindcss 3.x installed in your react project. [Tailwindcss](https://tailwindcss.com) 
 
 # Demo
 
 [Demo in codesandbox](https://codesandbox.io/s/tailwind-toastify-rhtvh5?file=/src/App.js)
+
 [Demo online](https://tailwind-toastify.vercel.app/)
 
 

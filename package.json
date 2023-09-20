@@ -1,6 +1,6 @@
 {
   "name": "tailwind-toastify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Show beatiful notifications with tailwindcss",
   "homepage": "https://tailwind-toastify.vercel.app",
   "repository": {
