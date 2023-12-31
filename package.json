@@ -1,6 +1,6 @@
 {
   "name": "tailwind-toastify",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "Show beatiful notifications with tailwindcss",
   "homepage": "https://tailwind-toastify.vercel.app",
   "repository": {
@@ -8,13 +8,25 @@
     "url": "https://github.com/jdanigo/tailwind-toastify"
   },
   "main": "build/index.js",
-  "keywords": ["Tailwindcss", "Notifications tailwind", "Tailwind toastify"],
+  "keywords": [
+    "tailwindcss",
+    "notifications tailwind",
+    "tailwind toastify",
+    "toast notifications",
+    "push notifications",
+    "toast",
+    "alert",
+    "alert notifications",
+    "toastify",
+    "alert toastity"
+  ],
   "engines": {
     "node": ">=18.0.0"
   },
   "scripts": {
     "build": "webpack"
   },
+  "types": "index.d.ts",
   "author": "Cloudsoft Industries",
   "license": "MIT",
   "dependencies": {
@@ -28,6 +40,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.22.20",
     "@babel/preset-react": "^7.22.15",
+    "@babel/preset-typescript": "^7.23.3",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^9.1.3",
